@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+#NOTE:
+1. This project is not having the signup option so if you wanna use it consider some usernames with the passwords as the admin is only me.
+   (i)username - Shekhawat  , password: Vijay
+   (ii) username - Sweety, password: Singh
+   (iii) username - Arvind, password : Kumar
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+2. Some people in the above names have already groups joined and if requested by the admin they can also join other groups as well.
 
 ## Available Scripts
 
